@@ -1,0 +1,23 @@
+{
+  "name": "melis-client",
+  "version": "1.0.0",
+  "description": "a web-based client for communicating with melis-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsendag/melis-client.git"
+  },
+  "keywords": [
+    "raspberrypi",
+    "timelapse"
+  ],
+  "author": "Dag Einar Monsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monsendag/melis-client/issues"
+  },
+  "homepage": "https://github.com/monsendag/melis-client#readme"
+}
