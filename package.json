@@ -19,5 +19,17 @@
   "bugs": {
     "url": "https://github.com/monsendag/melis-client/issues"
   },
-  "homepage": "https://github.com/monsendag/melis-client#readme"
+  "homepage": "https://github.com/monsendag/melis-client#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-eslint": "^0.12.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-util": "^3.0.4",
+    "gulp-webpack": "^1.4.0"
+  },
+  "dependencies": {
+    "later": "^1.1.6",
+    "request": "^2.55.0"
+  }
 }
